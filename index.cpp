@@ -4,8 +4,8 @@
     #include <emscripten/emscripten.h>
 #endif
 
-const int screenWidth = 0;
-const int screenHeight = 0;
+const int screenWidth = 500;
+const int screenHeight = 500;
 
 void UpdateDrawFrame(void);     // Update and Draw one frame
 
